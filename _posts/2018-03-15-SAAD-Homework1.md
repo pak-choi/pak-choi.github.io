@@ -168,7 +168,7 @@ $$
 + Software requirements
 + Software design
 + Software Engineering Tools and methods
-+ Software Quality
++ Software construction
 
 ## 解释``CMMI``的五个级别[^7][^8]
 
