@@ -5,7 +5,7 @@ subtitle: homework1
 author: 陈序
 date: 2018-03-15 21:09:29 +0800
 categories: 系统分析与设计
-tag: 系统分析与设计 作业
+tag: [系统分析与设计, 作业]
 ---
 
 # 1、简单题
