@@ -3,7 +3,7 @@ layout: post
 title: 技术报告
 subtitle: 使用CI和Codecov进行持续集成和代码覆盖率统计
 author: 陈序
-date: 2018-03-15 21:09:29 +0800
+date: 2018-04-15 21:09:29 +0800
 categories: 系统分析与设计
 tag: [系统分析与设计, 技术报告, 持续集成]
 ---
@@ -185,4 +185,5 @@ after_success:
 
 [^1]: [Continuous_integration](https://en.wikipedia.org/wiki/Continuous_integration)
 [^2]: [持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
-[^3]: [代码覆盖率](https://zh.wikipedia.org/zh-cn/代码覆盖率)
+[^3]: [Travis CI](https://zh.wikipedia.org/wiki/Travis_CI)
+[^4]: [代码覆盖率](https://zh.wikipedia.org/zh-cn/代码覆盖率)
